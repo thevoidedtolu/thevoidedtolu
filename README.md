@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning about Data Structures and AI/ML Algorithms using Python
 - 💞️ I’m looking to collaborate on introductory projects that can raise my skill level
 - 📫 How to reach me 
-        mail: toluj12@gmail.com
+	- mail: toluj12@gmail.com
+	
 
 
 <!---
